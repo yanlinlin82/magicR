@@ -1,0 +1,11 @@
+Package: magicR
+Title: A different way to play with R
+Version: 0.0.0.9000
+Authors@R: person("Linlin", "Yan", email = "yanlinlin82@gmail.com", role = c("aut", "cre"))
+Description: Magic is everywhere in R world.
+Depends:
+    R (>= 3.3.1)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
